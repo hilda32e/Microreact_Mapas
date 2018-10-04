@@ -1,5 +1,5 @@
 **Microreact_Mapas**    
-Para generar mapas de sitios de muestreo    
+_Para generar mapas de sitios de muestreo_    
 
    Se pueden generar mapas de sitios de muestreo por medio de una hoja de cálculo de Google  
    Las instrucciones a seguir son las siguientes:    
